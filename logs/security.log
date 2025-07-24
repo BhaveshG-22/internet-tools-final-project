@@ -1,0 +1,13 @@
+2025-07-16 03:33:07 - USER_REGISTRATION - IP: ::1 - Email: bhaveshgavali2022@gmail.com
+2025-07-16 03:33:22 - LOGIN_SUCCESS - IP: ::1 - User ID: 2, Email: bhaveshgavali2022@gmail.com
+2025-07-16 03:35:53 - LOGIN_FAILED - IP: ::1 - Email: admin@computerstore.com
+2025-07-16 03:36:03 - LOGIN_FAILED - IP: ::1 - Email: admin@computerstore.com
+2025-07-16 03:36:21 - LOGIN_FAILED - IP: ::1 - Email: admin@computerstore.com
+2025-07-16 03:37:33 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@computerstore.com
+2025-07-24 22:20:42 - LOGIN_FAILED - IP: ::1 - Email: bhaveshgavali2022@gmail.com
+2025-07-24 22:21:44 - USER_REGISTRATION - IP: ::1 - Email: demobhaveshgavali@gmail.com
+2025-07-24 22:21:56 - LOGIN_SUCCESS - IP: ::1 - User ID: 4, Email: demobhaveshgavali@gmail.com
+2025-07-24 22:56:56 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@computerstore.com
+2025-07-24 23:02:14 - LOGIN_FAILED - IP: ::1 - Email: bhaveshgavali2022@gmail.com
+2025-07-24 23:02:21 - LOGIN_SUCCESS - IP: ::1 - User ID: 4, Email: demobhaveshgavali@gmail.com
+2025-07-24 23:09:49 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@computerstore.com
