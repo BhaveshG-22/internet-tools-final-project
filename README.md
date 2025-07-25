@@ -2,6 +2,27 @@
 
 A full-stack web application for an online computer store built with PHP, MySQL, HTML5, CSS (Bootstrap), and JavaScript.
 
+## Project Information
+
+### Project Group Members
+
+- **Erin Viju**  
+  Student ID: 229586570  
+  Email: eviju@algomau.ca
+
+- **Bhavesh Gavali**  
+  Student ID: 229541340  
+  Email: bgavali@algomau.ca
+
+- **Spandan Narayan Devagirkar**  
+  Student ID: 249424300
+
+- **Kirandeep Kaur Mehta**  
+  Student ID: 5144806
+
+**Course**: COSC2956001 - Internet Tool  
+**Institution**: Algoma University
+
 ## Features
 
 ### User Features
@@ -229,12 +250,7 @@ webtermproject/
 
 This project is created for educational purposes as part of a web development course.
 
-## Project Information
-
-**Developer**: Bhavesh Gavali  
-**Student ID**: [Your Student ID Here]  
-**Course**: Web Development  
-**Institution**: [Your Institution Name]  
+  
 
 ## Live Demo
 
