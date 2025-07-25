@@ -15,10 +15,12 @@ A full-stack web application for an online computer store built with PHP, MySQL,
   Email: bgavali@algomau.ca
 
 - **Spandan Narayan Devagirkar**  
-  Student ID: 249424300
+  Student ID: 249424300  
+  Email: sdevagirkar@algomau.ca
 
 - **Kirandeep Kaur Mehta**  
-  Student ID: 5144806
+  Student ID: 5144806  
+  Email: Kimehta@algomau.ca
 
 **Course**: COSC2956001 - Internet Tool  
 **Institution**: Algoma University
